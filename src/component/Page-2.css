@@ -1,0 +1,115 @@
+.second .u-section-1 .second .u-sheet-1 {
+  min-height: 524px;
+}
+
+.second .u-section-1 .second .u-table-1 {
+  margin: 81px auto 42px 0;
+}
+
+.second .u-section-1 .second .u-table-entity-1 {
+  min-height: 100px;
+}
+
+.second .u-section-1 .second .u-table-header-1 {
+  font-weight: 700;
+  background-image: none;
+}
+
+.second .u-section-1 .second .u-table-cell-5 {
+  background-image: none;
+}
+
+.second .u-section-1 .second .u-table-cell-9 {
+  background-image: none;
+}
+
+.second .u-section-1 .second .u-table-cell-13 {
+  background-image: none;
+}
+
+.second .u-section-1 .second .u-table-cell-17 {
+  background-image: none;
+}
+
+.second .u-block-99be-35 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .second .u-section-1 .second .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.second .u-section-2 .second .u-sheet-1 {
+  min-height: 274px;
+}
+
+.second .u-section-2 .second .u-text-1 {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: 700;
+  margin: 40px auto 0;
+}
+
+.second .u-section-2 .second .u-form-1 {
+  height: 77px;
+  width: 1034px;
+  margin: auto;
+}
+
+.second .u-section-2 .second .u-label-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.second .u-section-2 .second .u-form-group-2 {
+  margin-left: 0;
+}
+
+.second .u-section-2 .second .u-label-2 {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.second .u-section-2 .second .u-label-3 {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.second .u-section-2 .second .u-label-4 {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.second .u-section-2 .second .u-form-group-3 {
+  margin-left: 0;
+}
+
+.second .u-section-2 .second .u-label-5 {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+@media (max-width: 1199px) {
+  .second .u-section-2 .second .u-form-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .second .u-section-2 .second .u-form-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .second .u-section-2 .second .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .second .u-section-2 .second .u-form-1 {
+    width: 340px;
+  }
+}
